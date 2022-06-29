@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Shadows+Into+Light&display=swap');
+
+.n{
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 13%;
+    margin-top: 2%;
+
+}
+
+.isl{
+    margin-top: -5%;
+}
+
+.lq{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    font-weight: 400;
+
+}
+
+
+.path{
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    margin-left: 18%;
+    width: 70%;
+    opacity: 95%;
+}
+
+.m{
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 48px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+color: #2C233D;
+}
+
+
+p{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 39px;
+display: flex;
+align-items: center;
+
+color: #2C233D;
+}
+
+.b{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight:600;
+font-size: 46px;
+line-height: 56px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color:#006cf9;
+}
+

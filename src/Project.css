@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;1,100;1,300&family=Poppins:ital,wght@0,100;0,300;1,100&family=Roboto:wght@500&display=swap');
+
+
+.header{
+padding-top: 50px;
+align-items: center;
+justify-content: center;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 49px;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+text-decoration: overline;
+
+
+}
+
+
+.self-comrade{
+
+    margin-left: 57%;
+    margin-top: -3%;
+
+}
+
+.opse{
+    display: flex;
+    padding-top:25px;
+    justify-content: center;
+    
+}
